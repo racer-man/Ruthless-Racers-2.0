@@ -1,2 +1,1 @@
-# Ruthless-Racers-2.0
-Race along the infinite track and avoid the obstacles!
+# project-38-INFINTE-RUNNER-GAME
